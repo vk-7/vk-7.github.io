@@ -1,0 +1,75 @@
+{
+  "proyectos": [
+    {
+      "nombre": "vk-7.github.io",
+      "descripcion": "",
+      "lenguaje": "HTML",
+      "actualizado": "2026-11-21T22:54:05Z",
+      "privado": false,
+      "url": "https://github.com/vk-7/vk-7.github.io"
+    },
+    {
+      "nombre": "Fx6Maf",
+      "descripcion": "",
+      "lenguaje": "Python",
+      "actualizado": "2026-11-21T22:04:27Z",
+      "privado": true
+    },
+    {
+      "nombre": "ReparaCodigoMaf",
+      "descripcion": "",
+      "lenguaje": "Python",
+      "actualizado": "2026-11-21T22:04:07Z",
+      "privado": true
+    },
+    {
+      "nombre": "ReImprimeEtiqueta",
+      "descripcion": "Programa de re impresion de etiquetas creado a la medida para Clee quality cubriendo una necesidad especifica",
+      "lenguaje": "Python",
+      "actualizado": "2026-11-21T22:03:26Z",
+      "privado": true
+    },
+    {
+      "nombre": "detenciones",
+      "descripcion": "",
+      "lenguaje": "Python",
+      "actualizado": "2026-11-21T22:02:44Z",
+      "privado": true
+    },
+    {
+      "nombre": "inversion-zesty",
+      "descripcion": "Sistema propio para estudiar acciones chilenas y llevar carteras",
+      "lenguaje": "Python",
+      "actualizado": "2026-11-21T21:02:59Z",
+      "privado": true
+    },
+    {
+      "nombre": "agroindustrial-los-lirios",
+      "descripcion": "",
+      "lenguaje": "JavaScript",
+      "actualizado": "2026-11-10T11:39:29Z",
+      "privado": true
+    },
+    {
+      "nombre": "Inventario",
+      "descripcion": "",
+      "lenguaje": "Python",
+      "actualizado": "2026-11-10T10:20:26Z",
+      "privado": true
+    },
+    {
+      "nombre": "cefalon-vex",
+      "descripcion": "",
+      "lenguaje": "JavaScript",
+      "actualizado": "2026-09-25T22:53:08Z",
+      "privado": true
+    },
+    {
+      "nombre": "CalibraPesos",
+      "descripcion": "",
+      "lenguaje": "Python",
+      "actualizado": "2026-08-03T19:59:24Z",
+      "privado": true
+    }
+  ]
+}

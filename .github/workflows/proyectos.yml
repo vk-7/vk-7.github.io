@@ -1,0 +1,27 @@
+name: Proyectos
+
+on:
+  schedule:
+    - cron: "17 9 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Leer repos de vk-7
+        run: bash .github/proyectos.sh
+        env:
+          GH_TOKEN: ${{ secrets.PORTAFOLIO_TOKEN }}
+      - name: Guardar si cambió
+        run: |
+          git add proyectos.json
+          git diff --cached --quiet && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Actualizar proyectos"
+          git push
