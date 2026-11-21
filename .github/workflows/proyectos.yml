@@ -16,7 +16,7 @@ jobs:
       - name: Leer repos de vk-7
         run: bash .github/proyectos.sh
         env:
-          GH_TOKEN: ${{ secrets.PORTAFOLIO_TOKEN }}
+          GH_TOKEN: ${{ secrets.PORTFOLIO_TOKEN }}
       - name: Guardar si cambió
         run: |
           git add proyectos.json
