@@ -15,4 +15,4 @@ gh api --paginate "/user/repos?affiliation=owner&per_page=100" | jq -s --argjson
           lenguaje: .language,
           actualizado: .pushed_at, privado: .private }
         + (if .private then {} else { url: .html_url } end) ]
-    | sort_by(.actualizado) | reverse }' > proyectos.json
+    | sort_by(.nombre | ascii_downcase) }' > proyectos.json
