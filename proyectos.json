@@ -1,20 +1,6 @@
 {
   "proyectos": [
     {
-      "nombre": "ralenti",
-      "descripcion": "App de escritorio para Linux (Qt) que acumula horas de juego en Steam, gestiona logros y consigue cromos.",
-      "lenguaje": "C++",
-      "actualizado": "2026-11-21T23:48:07Z",
-      "privado": true
-    },
-    {
-      "nombre": "respaldos-pi",
-      "descripcion": "Respaldos automáticos de bases de datos SQL Server desde una Raspberry Pi, con un bot de Telegram para avisos y control.",
-      "lenguaje": "HTML",
-      "actualizado": "2026-11-21T23:45:22Z",
-      "privado": true
-    },
-    {
       "nombre": "agroindustrial-los-lirios",
       "descripcion": "Sitio web institucional de un packing de pera, manzana y cereza: portada, formularios de contacto y blog con panel de administración.",
       "lenguaje": "JavaScript",
@@ -22,53 +8,10 @@
       "privado": true
     },
     {
-      "nombre": "repara-codigo-maf",
-      "descripcion": "Corrige cada segundo los códigos de etiqueta en los calibradores MAF de las líneas de cereza. Junta en una sola app las dos que había.",
+      "nombre": "calibra-pesos",
+      "descripcion": "App de escritorio que consulta los embarques en SQL Server y los muestra en una grilla con filtros por centro de costo, embalaje y calibre.",
       "lenguaje": "Python",
-      "actualizado": "2026-11-21T23:29:57Z",
-      "privado": true
-    },
-    {
-      "nombre": "reimprime-etiqueta",
-      "descripcion": "Programa de re impresion de etiquetas creado a la medida para Clee quality cubriendo una necesidad especifica",
-      "lenguaje": "Python",
-      "actualizado": "2026-11-21T23:29:52Z",
-      "privado": true
-    },
-    {
-      "nombre": "fx6-maf",
-      "descripcion": "Pasa al sistema FX6 las cajas que registran los calibradores MAF de cada línea y corrige sus códigos. Reemplaza a un programa antiguo en VB.NET.",
-      "lenguaje": "Python",
-      "actualizado": "2026-11-21T23:29:47Z",
-      "privado": true
-    },
-    {
-      "nombre": "detenciones",
-      "descripcion": "App de escritorio para registrar, buscar y exportar las detenciones de las líneas de packing. Funciona con SQL Server, MySQL o SQLite.",
-      "lenguaje": "Python",
-      "actualizado": "2026-11-21T23:29:42Z",
-      "privado": true
-    },
-    {
-      "nombre": "vk-7.github.io",
-      "descripcion": "Este portafolio. Se arma solo con mis repos de GitHub y se actualiza cada día.",
-      "lenguaje": "HTML",
-      "actualizado": "2026-11-21T23:22:50Z",
-      "privado": false,
-      "url": "https://github.com/vk-7/vk-7.github.io"
-    },
-    {
-      "nombre": "inversion-zesty",
-      "descripcion": "Sistema propio para estudiar acciones chilenas y llevar carteras",
-      "lenguaje": "Python",
-      "actualizado": "2026-11-21T21:02:59Z",
-      "privado": true
-    },
-    {
-      "nombre": "inventario",
-      "descripcion": "App de escritorio para gestionar inventario, con base de datos local (SQLite) o de servidor (MySQL o SQL Server).",
-      "lenguaje": "Python",
-      "actualizado": "2026-11-10T10:20:26Z",
+      "actualizado": "2026-08-03T19:59:24Z",
       "privado": true
     },
     {
@@ -79,11 +22,68 @@
       "privado": true
     },
     {
-      "nombre": "calibra-pesos",
-      "descripcion": "App de escritorio que consulta los embarques en SQL Server y los muestra en una grilla con filtros por centro de costo, embalaje y calibre.",
+      "nombre": "detenciones",
+      "descripcion": "App de escritorio para registrar, buscar y exportar las detenciones de las líneas de packing. Funciona con SQL Server, MySQL o SQLite.",
       "lenguaje": "Python",
-      "actualizado": "2026-08-03T19:59:24Z",
+      "actualizado": "2026-11-21T23:29:42Z",
       "privado": true
+    },
+    {
+      "nombre": "fx6-maf",
+      "descripcion": "Pasa al sistema FX6 las cajas que registran los calibradores MAF de cada línea y corrige sus códigos. Reemplaza a un programa antiguo en VB.NET.",
+      "lenguaje": "Python",
+      "actualizado": "2026-11-21T23:29:47Z",
+      "privado": true
+    },
+    {
+      "nombre": "inventario",
+      "descripcion": "App de escritorio para gestionar inventario, con base de datos local (SQLite) o de servidor (MySQL o SQL Server).",
+      "lenguaje": "Python",
+      "actualizado": "2026-11-10T10:20:26Z",
+      "privado": true
+    },
+    {
+      "nombre": "inversion-zesty",
+      "descripcion": "Sistema propio para estudiar acciones chilenas y llevar carteras",
+      "lenguaje": "Python",
+      "actualizado": "2026-11-21T21:02:59Z",
+      "privado": true
+    },
+    {
+      "nombre": "ralenti",
+      "descripcion": "App de escritorio para Linux (Qt) que acumula horas de juego en Steam, gestiona logros y consigue cromos.",
+      "lenguaje": "C++",
+      "actualizado": "2026-11-21T23:48:07Z",
+      "privado": true
+    },
+    {
+      "nombre": "reimprime-etiqueta",
+      "descripcion": "Programa de re impresion de etiquetas creado a la medida para Clee quality cubriendo una necesidad especifica",
+      "lenguaje": "Python",
+      "actualizado": "2026-11-21T23:29:52Z",
+      "privado": true
+    },
+    {
+      "nombre": "repara-codigo-maf",
+      "descripcion": "Corrige cada segundo los códigos de etiqueta en los calibradores MAF de las líneas de cereza. Junta en una sola app las dos que había.",
+      "lenguaje": "Python",
+      "actualizado": "2026-11-21T23:29:57Z",
+      "privado": true
+    },
+    {
+      "nombre": "respaldos-pi",
+      "descripcion": "Respaldos automáticos de bases de datos SQL Server desde una Raspberry Pi, con un bot de Telegram para avisos y control.",
+      "lenguaje": "HTML",
+      "actualizado": "2026-11-21T23:45:22Z",
+      "privado": true
+    },
+    {
+      "nombre": "vk-7.github.io",
+      "descripcion": "Este portafolio. Se arma solo con mis repos de GitHub y se actualiza cada día.",
+      "lenguaje": "HTML",
+      "actualizado": "2026-11-21T23:49:11Z",
+      "privado": false,
+      "url": "https://github.com/vk-7/vk-7.github.io"
     }
   ]
 }
