@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Leer repos marcados como portafolio
+      - name: Leer repos de vk-7
         run: bash .github/proyectos.sh
         env:
           GH_TOKEN: ${{ secrets.PORTAFOLIO_TOKEN }}

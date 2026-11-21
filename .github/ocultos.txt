@@ -1,0 +1,3 @@
+# Repos que NO aparecen en el portafolio: un nombre por línea, tal como en GitHub.
+# Ejemplo:
+# ReImprimeEtiqueta
