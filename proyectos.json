@@ -32,14 +32,14 @@
       "nombre": "fx-nuevo",
       "descripcion": "Reemplazo por partes del ERP FX sobre la misma BD (Tauri + Rust + Svelte)",
       "lenguaje": "HTML",
-      "actualizado": "2026-11-24T02:49:59Z",
+      "actualizado": "2026-11-25T23:21:25Z",
       "privado": true
     },
     {
       "nombre": "fx6-maf",
       "descripcion": "Pasa al sistema FX6 las cajas que registran los calibradores MAF de cada línea y corrige sus códigos. Reemplaza a un programa antiguo en VB.NET.",
       "lenguaje": "Python",
-      "actualizado": "2026-11-25T00:38:32Z",
+      "actualizado": "2026-11-26T03:53:25Z",
       "privado": true
     },
     {
@@ -88,7 +88,7 @@
       "nombre": "vk-7.github.io",
       "descripcion": "Este portafolio. Se arma solo con mis repos de GitHub y se actualiza cada día.",
       "lenguaje": "CSS",
-      "actualizado": "2026-11-24T20:12:04Z",
+      "actualizado": "2026-11-25T19:20:35Z",
       "privado": false,
       "url": "https://github.com/vk-7/vk-7.github.io"
     }
